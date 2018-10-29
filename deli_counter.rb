@@ -12,4 +12,4 @@ end
 
 def take_a_number(line)
   line = ["Ada"] <<"Grace"
-end 
+end
