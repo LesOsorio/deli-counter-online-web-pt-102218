@@ -1,19 +1,22 @@
 katz_deli = []
 
-  take_a_number(katz_deli, "Ada") 
-  take_a_number(katz_deli, "Grace") 
-  take_a_number(katz_deli, "Kent") 
+  take_a_number(katz_deli, "Ada")
+  take_a_number(katz_deli, "Grace")
+  take_a_number(katz_deli, "Kent")
 
-  line(katz_deli) 
+  def line(katz_deli)
+    line = []
+    puts "The line is empty"
 
-  now_serving(katz_deli) 
+  def now_serving(katz_deli)
+    
 
-  line(katz_deli) 
-  
-  take_a_number(katz_deli, "Matz") 
+  def line(katz_deli)
 
-  line(katz_deli) 
-  
-  now_serving(katz_deli) 
+  def take_a_number(katz_deli, "Matz")
 
-  line(katz_deli) 
+  def line(katz_deli)
+
+  def now_serving(katz_deli)
+
+  def line(katz_deli) 
