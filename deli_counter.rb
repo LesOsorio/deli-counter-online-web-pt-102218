@@ -17,7 +17,7 @@ katz_deli = []
   end
 
   def take_a_number(katz_deli, "Matz")
-    line = ["Ada"] <<"Matz"
+    line = [] <<"Matz"
   end
 
   def line(katz_deli)
