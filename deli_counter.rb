@@ -4,7 +4,7 @@ def katz_deli(line)
 end
 
 def other_deli(line)
-  line = []
+  line = ["leslie","peter"]
 end
 
 def take_a_number(line)
