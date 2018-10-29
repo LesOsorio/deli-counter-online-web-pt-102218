@@ -1,9 +1,9 @@
 def katz_deli(line)
-  line = [ ]
+  line = []
 end
 
 def other_deli(line)
-  line = [ ]
+  line = []
 end
 
 def take_a_number(line)
