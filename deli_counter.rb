@@ -1,14 +1,14 @@
 def katz_deli(line)
   line = [ ]
-end 
+end
 
 def other_deli(line)
   line = [ ]
-end 
+end
 
 def take_a_number(line)
   line = ["Ada"]
-end 
+end
 
 def take_a_number(line)
   line = ["Ada"] <<"Grace"
