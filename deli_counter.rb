@@ -14,7 +14,7 @@ katz_deli = []
   def line(katz_deli)
     line = ["Ada"]
     puts "There are #{num} people in line."
-  end 
+  end
 
   def take_a_number(katz_deli, "Matz")
     line = ["Ada"] <<"Matz"
